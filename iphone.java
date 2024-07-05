@@ -1,7 +1,7 @@
 public class iphone implements navegadorInternet,aparelhoTelefonico,reprodutorMusical {
 
     @Override
-    public void adicionarNovaAba() {
+    public void NovaAba() {
         
         
     }
@@ -24,7 +24,7 @@ public class iphone implements navegadorInternet,aparelhoTelefonico,reprodutorMu
     }
 
     @Override
-    public void iniciarCorreioVoz() {
+    public void iniciarCorreioDeVoz() {
         
     }
 
@@ -39,12 +39,12 @@ public class iphone implements navegadorInternet,aparelhoTelefonico,reprodutorMu
     }
 
     @Override
-    public void selecionarMusica() {
+    public void escolherMusica() {
         
     }
 
     @Override
-    public void tocar() {
+    public void play() {
         
     }
    

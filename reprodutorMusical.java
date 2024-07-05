@@ -1,6 +1,6 @@
 public interface reprodutorMusical {
 
-    public  void tocar();
+    public  void play();
     public void pausar();
-    public void selecionarMusica();
+    public void escolherMusica();
 }
